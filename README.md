@@ -9,6 +9,8 @@
 
 ## Upute
 
+Ako Docker nije instaliran kao sudo user ispred naredba za dockere treba dodati sudo!
+
 1. Kreirati .env datoteku
 2. Konfiguraciju za bazu:
  - DB_CONNECTION=mysql
